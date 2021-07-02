@@ -1,3 +1,3 @@
 # Nonparametric-density-estimation-with-shape-constraints
 
-This is a repository for the paper...
+A variant of cubic-regularized Newton method for density estimation with shape constraints. 
